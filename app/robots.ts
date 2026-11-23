@@ -7,7 +7,7 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
       disallow: ['/api/'],
     },
-    sitemap: 'https://xevoratechnologies.com/sitemap.xml',
-    host: 'https://xevoratechnologies.com',
+    sitemap: 'https://www.xevoratechnologies.com/sitemap.xml',
+    host: 'https://www.xevoratechnologies.com',
   };
 }
